@@ -10,6 +10,7 @@ CONTENT - CDP_2021_Antioxidant_Models.ipynb
     - Data Splitting
 - Antioxidant Models
     - SGD Regressor 
+    - RandomForestRegressor
     - Neural Network
 - Result & Conclusion
 
@@ -22,5 +23,6 @@ CONTENT - CDP_2021_Cytotoxicity_Models.ipynb
     - Data Splitting
 - Cytotoxicity Models
     - SGD Regressor 
+    - RandomForestRegressor
     - Neural Network
 - Result & Conclusion
