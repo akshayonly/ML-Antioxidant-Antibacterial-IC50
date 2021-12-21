@@ -1,20 +1,26 @@
 # ML-Antioxidant-Antibacterial-IC50
 
 
-CONTENT
+CONTENT - CDP_2021_Antioxidant_Models.ipynb
+- Libraries
+- Data
+- Data Preprocessing
+    - Conversion from IC50 to pIC50
+    - PaDel Descriptor
+    - Data Splitting
+- Antioxidant Models
+    - SGD Regressor 
+    - Neural Network
+- Result & Conclusion
 
-1. Packages & Libraries
-
-2. Data Processing
-  - Main Data
-  - PubChem search & extracting molecular properties
-  - Data with features (molecular)
-  - Fingerprint processing
-  - Scaling data 
-
-3. Machine learning regression models (Dummy Model)
-  - Simple Linear Regression
-  - Stochastic Gradient Descent Regressors (SGDr)
-
-4. Neural Network
-  - Multi-layer Perceptron
+CONTENT - CDP_2021_Cytotoxicity_Models.ipynb
+- Libraries
+- Data
+- Data Preprocessing
+    - Conversion from IC50 to pIC50
+    - PaDel Descriptor
+    - Data Splitting
+- Cytotoxicity Models
+    - SGD Regressor 
+    - Neural Network
+- Result & Conclusion
